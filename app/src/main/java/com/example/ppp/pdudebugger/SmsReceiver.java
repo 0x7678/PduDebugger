@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by PPP on 08/02/2015.
+ * Created by Paul Kinsella kali.gsm.rtl.sdr@gmail.com on 08/02/2015.
  */
 public class SmsReceiver extends BroadcastReceiver {
 
